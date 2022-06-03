@@ -11,7 +11,7 @@ zahidhasanshuvo/zahidhasanshuvo is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi, I'm  Md. Zahid Hasan </h1>
+<h1 align="center">Hi, I'm  Md. Zahid Hasan 👋</h1>
 
 <h3 align="center">I'm  into problem solvig and making projects. Enthusiastic about Algorithms, Artificial Intelligence, Machine Learning & Deep Learning.</h3>
 
@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in Data Science
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m addicted to learning and growing every day
 
 - 📫 How to connect with me: [Linkedin](https://www.linkedin.com/in/hasanzahidshuvo/)
 
-- 💻 Currently working as a **Student at Uttara University**
+- 💻 Currently Completing BSc in Computer Science at **Uttara University**
 
 
 <h2 align="left">Connect with me:</h2>
