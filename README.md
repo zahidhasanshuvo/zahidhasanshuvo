@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m addicted to learning and growing every day
 
-- 📫 How to connect with me: [Linkedin](https://www.linkedin.com/in/hasanzahidshuvo/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hasanzahidshuvo/)
 
 - 💻 Currently Completing BSc in Computer Science at **Uttara University**
 
